@@ -6,7 +6,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 # Load trained model
 # Define paths
 model_path = "sentiment_analysis/Sentiment Analysis for Tweets.pkl"
-vectorizer_path = "sentiment_analysis/vectorizer.pkl"
+vectorizer_path = "sentiment_analysis/tfidf_vectorizer.pkl"
 
 
 
